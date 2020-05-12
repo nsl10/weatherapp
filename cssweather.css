@@ -12,3 +12,8 @@ body{
 	background: linear-gradient(blue,red);
 	color: white;	
 }
+.site-description{
+	text-align: center;
+	position: relative;
+	margin-top: 30%;
+}
